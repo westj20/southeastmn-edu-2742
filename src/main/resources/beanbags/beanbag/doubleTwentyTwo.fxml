@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="800.0" prefWidth="1112.0" style="-fx-background-color: Cornsilk;" xmlns="http://javafx.com/javafx/11.0.14-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="beanbags.beanbag.DoubleTwentyTwoController">
+   <children>
+      <Label layoutX="444.0" text="11 Team Double Elimination">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Button fx:id="team1" layoutX="23.0" layoutY="179.0" mnemonicParsing="false" onAction="#onTeam1ButtonClick" prefWidth="100.0" />
+      <Button fx:id="team2" layoutX="23.0" layoutY="215.0" mnemonicParsing="false" onAction="#onTeam2ButtonClick" prefWidth="100.0" />
+      <Button fx:id="team5" layoutX="27.0" layoutY="418.0" mnemonicParsing="false" onAction="#onTeam5ButtonClick" prefWidth="100.0" />
+      <Button fx:id="team6" layoutX="27.0" layoutY="449.0" mnemonicParsing="false" onAction="#onTeam6ButtonClick" prefWidth="100.0" />
+      <Button fx:id="team3" layoutX="25.0" layoutY="304.0" mnemonicParsing="false" onAction="#onTeam3ButtonClick" prefWidth="100.0" />
+      <Button fx:id="team4" layoutX="26.0" layoutY="336.0" mnemonicParsing="false" onAction="#onTeam4ButtonClick" prefWidth="100.0" />
+      <Button fx:id="team7" layoutX="136.0" layoutY="109.0" mnemonicParsing="false" onAction="#onTeam7ButtonClicked" prefWidth="100.0" />
+      <Button fx:id="team8" layoutX="135.0" layoutY="145.0" mnemonicParsing="false" onAction="#onTeam8ButtonClick" prefWidth="100.0" />
+      <Button fx:id="team9" layoutX="138.0" layoutY="237.0" mnemonicParsing="false" onAction="#onTeam9ButtonClick" prefWidth="100.0" />
+      <Button fx:id="team10" layoutX="136.0" layoutY="349.0" mnemonicParsing="false" onAction="#onTeam10ButtonClick" prefWidth="100.0" />
+      <Button fx:id="WG2" layoutX="136.0" layoutY="317.0" mnemonicParsing="false" onAction="#onWG2ButtonClick" prefWidth="100.0" />
+      <Button fx:id="WG1" layoutX="137.0" layoutY="202.0" mnemonicParsing="false" onAction="#onWG1ButtonClick" prefWidth="100.0" />
+      <Button fx:id="WG5" layoutX="252.0" layoutY="224.0" mnemonicParsing="false" onAction="#onWG5ButtonClick" prefWidth="100.0" />
+      <Button fx:id="WG3" layoutX="137.0" layoutY="431.0" mnemonicParsing="false" onAction="#onWG3ButtonClick" prefWidth="100.0" />
+      <Button fx:id="WG6" layoutX="251.0" layoutY="326.0" mnemonicParsing="false" onAction="#onWG6ButtonClick" prefWidth="100.0" />
+      <Button fx:id="WG4" layoutX="252.0" layoutY="127.0" mnemonicParsing="false" onAction="#onWG4ButtonClick" prefWidth="100.0" />
+      <Label layoutX="14.0" layoutY="44.0" text="Round: 1">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </Label>
+      <Label layoutX="138.0" layoutY="44.0" text="Round:2">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </Label>
+      <Label layoutX="272.0" layoutY="44.0" text="Round: 3">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </Label>
+      <Button fx:id="WG11" layoutX="248.0" layoutY="605.0" mnemonicParsing="false" onAction="#onWG11ButtonClick" prefWidth="100.0" />
+      <Button fx:id="WG12" layoutX="252.0" layoutY="728.0" mnemonicParsing="false" onAction="#onWG12ButtonClick" prefWidth="100.0" />
+      <Button fx:id="WG15" layoutX="361.0" layoutY="750.0" mnemonicParsing="false" onAction="#onWG15ButtonClick" prefWidth="100.0" />
+      <Button fx:id="LG3" layoutX="27.0" layoutY="636.0" mnemonicParsing="false" onAction="#onLG3ButtonClick" prefWidth="100.0" />
+      <Button fx:id="LG1" layoutX="27.0" layoutY="733.0" mnemonicParsing="false" onAction="#onLG1ButtonClick" prefWidth="100.0" />
+      <Button fx:id="LG4" layoutX="25.0" layoutY="581.0" mnemonicParsing="false" onAction="#onLG4ButtonClick" prefWidth="100.0" />
+      <Button fx:id="LG2" layoutX="24.0" layoutY="546.0" mnemonicParsing="false" onAction="#onLG2ButtonClick" prefWidth="100.0" />
+      <Button fx:id="WG7" layoutX="251.0" layoutY="448.0" mnemonicParsing="false" onAction="#onWG7ButtonClick" prefWidth="100.0" />
+      <Button fx:id="WG8" layoutX="137.0" layoutY="559.0" mnemonicParsing="false" onAction="#onWG8ButtonClick" prefWidth="100.0" />
+      <Button fx:id="LG5" layoutX="27.0" layoutY="666.0" mnemonicParsing="false" onAction="#onLG5ButtonClick" prefWidth="100.0" />
+      <Button fx:id="LG6" layoutX="142.0" layoutY="707.0" mnemonicParsing="false" onAction="#onLG6ButtonClick" prefWidth="100.0" />
+      <Button fx:id="WG9" layoutX="138.0" layoutY="649.0" mnemonicParsing="false" onAction="#onWG9ButtonClick" prefWidth="100.0" />
+      <Button fx:id="LG13" layoutX="252.0" layoutY="763.0" mnemonicParsing="false" onAction="#onLG13ButtonClick" prefWidth="100.0" />
+      <Button fx:id="WG10" layoutX="142.0" layoutY="746.0" mnemonicParsing="false" onAction="#onWG10ButtonClick" prefWidth="100.0" />
+      <Button fx:id="LG14" layoutX="248.0" layoutY="533.0" mnemonicParsing="false" onAction="#onLG14ButtonClick" prefWidth="100.0" />
+      <Button fx:id="WG14" layoutX="361.0" layoutY="387.0" mnemonicParsing="false" onAction="#onWG14ButtonClick" prefWidth="100.0" />
+      <Button fx:id="WG13" layoutX="361.0" layoutY="171.0" mnemonicParsing="false" onAction="#onWG13ButtonClick" prefWidth="100.0" />
+      <Button fx:id="WG16" layoutX="361.0" layoutY="572.0" mnemonicParsing="false" onAction="#onWG16ButtonClick" prefWidth="100.0" />
+      <Button fx:id="LG17" layoutX="499.0" layoutY="512.0" mnemonicParsing="false" onAction="#onLG17ButtonClick" prefWidth="100.0" />
+      <Button fx:id="WG17" layoutX="635.0" layoutY="274.0" mnemonicParsing="false" onAction="#onWG17ButtonClick" prefWidth="100.0" />
+      <Button fx:id="LG20" layoutX="738.0" layoutY="408.0" mnemonicParsing="false" onAction="#onLG20ButtonClick" prefWidth="100.0" />
+      <Button fx:id="WG20" layoutX="738.0" layoutY="449.0" mnemonicParsing="false" onAction="#onWG20ButtonClick" prefWidth="100.0" />
+      <Label fx:id="winner" layoutX="932.0" layoutY="435.0" prefWidth="150.0" style="-fx-border-color: Black;">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label fx:id="team1lbl" disable="true" layoutX="35.0" layoutY="184.0" opacity="0.95" text="Team 1" />
+      <Label fx:id="team2lbl" disable="true" layoutX="35.0" layoutY="219.0" opacity="0.98" text="Team 2" />
+      <Label fx:id="team3lbl" disable="true" layoutX="37.0" layoutY="308.0" opacity="0.98" text="Team 3" />
+      <Label fx:id="team4lbl" disable="true" layoutX="38.0" layoutY="341.0" opacity="0.98" text="Team 4" />
+      <Label fx:id="team5lbl" disable="true" layoutX="37.0" layoutY="422.0" opacity="0.98" text="Team 5" />
+      <Label fx:id="WG1lbl" disable="true" layoutX="147.0" layoutY="206.0" opacity="0.98" text="Winner Game 1" />
+      <Label fx:id="team6lbl" disable="true" layoutX="37.0" layoutY="453.0" opacity="0.98" text="Team 6" />
+      <Label fx:id="team7lbl" disable="true" layoutX="145.0" layoutY="113.0" opacity="0.98" text="Team 7" />
+      <Label fx:id="team8lbl" disable="true" layoutX="145.0" layoutY="149.0" opacity="0.98" text="Team 8" />
+      <Label fx:id="team9lbl" disable="true" layoutX="148.0" layoutY="241.0" opacity="0.98" text="Team 9" />
+      <Label fx:id="team10lbl" disable="true" layoutX="146.0" layoutY="353.0" opacity="0.98" text="Team 10" />
+      <Label fx:id="WG2lbl" disable="true" layoutX="146.0" layoutY="321.0" opacity="0.98" text="Winner Game 2" />
+      <Label fx:id="LG1lbl" disable="true" layoutX="39.0" layoutY="737.0" opacity="0.98" text="Loser Game 1" />
+      <Label fx:id="LG2lbl" disable="true" layoutX="36.0" layoutY="550.0" opacity="0.98" text="Loser Game 2" />
+      <Label layoutX="51.0" layoutY="157.0" text="Game 1" />
+      <Label layoutX="53.0" layoutY="278.0" text="Game 2" />
+      <Label layoutX="46.0" layoutY="396.0" text="Game 3" />
+      <Label layoutX="160.0" layoutY="87.0" text="Game 4" />
+      <Label layoutX="164.0" layoutY="183.0" text="Game 5" />
+      <Label layoutX="165.0" layoutY="299.0" text="Game 6" />
+      <Label layoutX="165.0" layoutY="413.0" text="Game 7" />
+      <Label layoutX="54.0" layoutY="524.0" text="Game 8" />
+      <Label fx:id="LG3lbl" disable="true" layoutX="38.0" layoutY="640.0" opacity="0.98" text="Loser Game 3" />
+      <Label fx:id="LG4lbl" disable="true" layoutX="40.0" layoutY="585.0" opacity="0.98" text="Loser Game 4" />
+      <Label fx:id="WG5lbl" disable="true" layoutX="260.0" layoutY="228.0" opacity="0.98" text="Winner Game 5" />
+      <Label fx:id="WG3lbl" disable="true" layoutX="145.0" layoutY="435.0" opacity="0.98" text="Winner Game 3" />
+      <Label fx:id="WG6lbl" disable="true" layoutX="259.0" layoutY="330.0" opacity="0.98" text="Winner Game 6" />
+      <Label fx:id="WG4lbl" disable="true" layoutX="260.0" layoutY="131.0" opacity="0.98" text="Winner Game 4" />
+      <Label fx:id="LG5lbl" disable="true" layoutX="35.0" layoutY="670.0" opacity="0.98" text="Loser Game 5" />
+      <Label fx:id="WG7lbl" disable="true" layoutX="259.0" layoutY="452.0" opacity="0.98" text="Winner Game 7" />
+      <Label fx:id="WG8lbl" disable="true" layoutX="145.0" layoutY="563.0" opacity="0.98" text="Winner Game 8" />
+      <Label fx:id="LG6lbl" disable="true" layoutX="150.0" layoutY="711.0" opacity="0.97" text="Loser Game 6" />
+      <Label layoutX="53.0" layoutY="618.0" text="Game 9" />
+      <Label layoutX="50.0" layoutY="705.0" text="Game 10" />
+      <Label layoutX="278.0" layoutY="308.0" text="Game 14" />
+      <Label layoutX="276.0" layoutY="104.0" text="Game 13" />
+      <Label fx:id="LG13lbl" disable="true" layoutX="259.0" layoutY="769.0" opacity="0.98" text="Loser Game 13" />
+      <Label fx:id="WG9lbl" disable="true" layoutX="146.0" layoutY="653.0" opacity="0.98" text="Winner Game 9" />
+      <Label fx:id="LG14lbl" disable="true" layoutX="256.0" layoutY="538.0" opacity="0.98" text="Loser Game 14" />
+      <Label fx:id="WG10lbl" disable="true" layoutX="150.0" layoutY="750.0" opacity="0.97" text="Winner Game 10" />
+      <Label layoutX="160.0" layoutY="541.0" text="Game 11" />
+      <Label layoutX="168.0" layoutY="689.0" text="Game 12" />
+      <Label layoutX="276.0" layoutY="705.0" text="Game 15" />
+      <Label fx:id="WG11lbl" disable="true" layoutX="254.0" layoutY="609.0" opacity="0.98" text="Winner Game 11" />
+      <Label fx:id="WG12lbl" disable="true" layoutX="257.0" layoutY="732.0" opacity="0.98" text="Winner Game 12" />
+      <Label fx:id="WG15lbl" disable="true" layoutX="367.0" layoutY="754.0" opacity="0.98" text="Winner Game 15" />
+      <Label fx:id="WG14lbl" disable="true" layoutX="366.0" layoutY="391.0" opacity="0.98" text="Winner Game 14" />
+      <Label fx:id="WG13lbl" disable="true" layoutX="366.0" layoutY="175.0" opacity="0.98" text="Winner Game 13" />
+      <Label layoutX="276.0" layoutY="515.0" text="Game 16" />
+      <Label fx:id="WG16lbl" disable="true" layoutX="365.0" layoutY="576.0" opacity="0.98" text="Winner Game 16" />
+      <Label fx:id="LG17lbl" disable="true" layoutX="503.0" layoutY="516.0" opacity="0.98" text="Loser Game 17" />
+      <Label layoutX="387.0" layoutY="148.0" text="Game 17" />
+      <Label layoutX="386.0" layoutY="550.0" text="Game 18" />
+      <Label layoutX="736.0" layoutY="387.0" text="Game 21 If Needed" />
+      <Label layoutX="932.0" layoutY="413.0" text="Champion" />
+
+
+        
+      <Label layoutX="685.0" layoutY="502.0" />
+      <Button fx:id="generateTeams" layoutX="971.0" layoutY="753.0" mnemonicParsing="false" onAction="#onGenerateButtonClick" style="-fx-background-color: black;" text="Generate Teams" textFill="#f2eeee">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font></Button>
+      <Label fx:id="WG17lbl" disable="true" layoutX="639.0" layoutY="278.0" opacity="0.98" text="Winner Game 17" />
+      <Label fx:id="LG18lbl" layoutX="678.0" layoutY="461.0" />
+      <Button fx:id="team11" layoutX="138.0" layoutY="462.0" mnemonicParsing="false" onAction="#onTeam11ButtonClick" prefWidth="100.0" />
+      <Label fx:id="Team11lbl" disable="true" layoutX="146.0" layoutY="466.0" opacity="0.98" text="Team 11" />
+      <Button fx:id="LG7" layoutX="27.0" layoutY="763.0" mnemonicParsing="false" onAction="#onLG7ButtonClick" prefWidth="100.0" />
+      <Label fx:id="LG7lbl" disable="true" layoutX="36.0" layoutY="767.0" opacity="0.98" text="Loser Game 7" />
+      <Button fx:id="WG18" layoutX="499.0" layoutY="658.0" mnemonicParsing="false" onAction="#onWG18ButtonClick" prefWidth="100.0" />
+      <Label fx:id="WG18lbl" disable="true" layoutX="503.0" layoutY="662.0" opacity="0.98" text="Winner Game 18" />
+      <Label layoutX="523.0" layoutY="493.0" text="Game 19" />
+      <Button fx:id="WG19" layoutX="635.0" layoutY="585.0" mnemonicParsing="false" onAction="#onWG19ButtonClick" prefWidth="100.0" />
+      <Label fx:id="WG19lbl" disable="true" layoutX="639.0" layoutY="589.0" opacity="0.98" text="Winner Game 19" />
+      <Label layoutX="659.0" layoutY="254.0" text="Game 20" />
+      <Label fx:id="LG20lbl" disable="true" layoutX="745.0" layoutY="412.0" opacity="0.98" text="Loser Game 20" />
+      <Label fx:id="WG20lbl" disable="true" layoutX="745.0" layoutY="453.0" opacity="0.98" text="Winner Game 20" />
+      <Label layoutX="387.0" layoutY="45.0" text="Round: 4" />
+      <Label layoutX="532.0" layoutY="45.0" text="Round: 5" />
+      <Label layoutX="669.0" layoutY="45.0" text="Round: 6" />
+      <Label layoutX="771.0" layoutY="45.0" text="Round: 7" />
+   </children>
+</AnchorPane>

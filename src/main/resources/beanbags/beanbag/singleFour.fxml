@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane fx:id="Player1" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.14-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="beanbags.beanbag.SingleFourController">
+   <children>
+      <Button fx:id="Generate" layoutX="77.0" layoutY="264.0" mnemonicParsing="false" onAction="#onGenerateButtonClick" text="Generate Teams" />
+      <Label fx:id="Player1Label" layoutX="85.0" layoutY="140.0" prefHeight="25.0" prefWidth="100.0" style="-fx-border-color: Black;" />
+      <Label fx:id="Player2Label" layoutX="85.0" layoutY="190.0" prefHeight="25.0" prefWidth="100.0" style="-fx-border-color: black;">
+         <padding>
+            <Insets left="5.0" />
+         </padding></Label>
+      <Button fx:id="Winner1" layoutX="25.0" layoutY="140.0" mnemonicParsing="false" onAction="#onWinner1ButtonClick" text="Winner" />
+      <Button fx:id="winner2" layoutX="25.0" layoutY="190.0" mnemonicParsing="false" onAction="#onWinner2ButtonClick" text="Winner" />
+      <Label fx:id="Winner" layoutX="222.0" layoutY="164.0" prefHeight="25.0" prefWidth="100.0" style="-fx-border-color: black;">
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+         <padding>
+            <Insets left="5.0" />
+         </padding>
+      </Label>
+   </children>
+   <padding>
+      <Insets left="5.0" />
+   </padding>
+</AnchorPane>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<Pane fx:id="numberPlayerlbl" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.14-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="beanbags.beanbag.BeanBagController">
+   <children>
+      <Label layoutX="52.0" layoutY="90.0" text="Player Name:" />
+      <TextField fx:id="playerName" layoutX="151.0" layoutY="86.0" onKeyPressed="#onPlayerNameKeyPressed" />
+      
+      <Button fx:id="deleteLast" layoutX="315.0" layoutY="86.0" mnemonicParsing="false" onAction="#onDeleteButtonClick" text="Delete Last" />
+      <Button fx:id="clearAll" layoutX="396.0" layoutY="86.0" mnemonicParsing="false" onAction="#onClearButtonClick" text="Clear All" />
+      <ListView fx:id="playerListView" layoutX="100.0" layoutY="124.0" prefHeight="200.0" prefWidth="200.0" />
+      <Button fx:id="Single" layoutX="97.0" layoutY="344.0" mnemonicParsing="false" onAction="#OnSingleButtonClick" text="Single" />
+      <Label fx:id="label" layoutX="315.0" layoutY="307.0" prefWidth="100.0" style="-fx-border-color: Black;" text="#Players" />
+      <Button fx:id="Double" layoutX="162.0" layoutY="344.0" mnemonicParsing="false" onAction="#OnDoubleButtonClick" text="Double" />
+      <Label layoutX="20.0" layoutY="348.0" text="Elimination: ">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+
+   </children>
+
+</Pane>

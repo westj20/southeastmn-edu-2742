@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx-preloader" build-on-make="true" name="Tourney">
+    <output-path>$PROJECT_DIR$/out/artifacts/Tourney</output-path>
+    <root id="archive" name="Tourney.jar">
+      <element id="archive" name="BeanBag.jar">
+        <element id="module-output" name="BeanBag" />
+      </element>
+    </root>
+  </artifact>
+</component>

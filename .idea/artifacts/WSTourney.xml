@@ -1,0 +1,164 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WSTourney">
+    <output-path>$PROJECT_DIR$/out/artifacts/WSTourney</output-path>
+    <root id="archive" name="BeanBag.jar">
+      <element id="module-output" name="BeanBag" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/19/javafx-fxml-19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/controlsfx/controlsfx/11.1.1/controlsfx-11.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/dlsc/formsfx/formsfx-core/11.5.0/formsfx-core-11.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/19/javafx-base-19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/19/javafx-controls-19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/19/javafx-graphics-19-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/19/javafx-fxml-19-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/19/javafx-base-19-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/19/javafx-controls-19-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/19/javafx-graphics-19.jar" path-in-jar="/" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/openjfx-20_windows-x64_bin-sdk.zip" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/openjfx-20_windows-x64_bin-sdk.zip" path-in-jar="/" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/1_11_2022_AB00799001053EUS.pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/2_11_2022_AB00799001053EUS.pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/3_11_2022_AB00799001053EUS.pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/4_11_2022_AB00799001053EUS.pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/5_11_2022_AB00799001053EUS.pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/6_11_2022_AB00799001053EUS.pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/7_11_2022_AB00799001053EUS.pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/8_11_2022_AB00799001053EUS.pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/9_11_2022_AB00799001053EUS.pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/9_11_2022_AB00799001053EUS (1).pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/10_11_2022_AB00799001053EUS.pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/11_11_2022_AB00799001053EUS.pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/12_11_2022_AB00799001053EUS.pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/50+ Pictures.pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/123-1.jpg" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/1745ex3a.zip" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/1745ex3a (1).zip" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/96143_brazil_of_flag_icon.png" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/96147_of_flag_france_icon.png" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/96220_states_of_flag_united_icon.png" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/96276_of_flag_italy_icon.png" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/96342_of_flag_china_icon.png" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/96354_kingdom_of_flag_united_icon.png" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/_Reflections A Journal for Teens.pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/accountActivity.pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/accountActivity (1).pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/accountActivity (2).pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Add a heading.pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Adult Art.pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Adult Art (1).pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/American Kennel-01.jpg" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/android-studio-2021.3.1.17-windows.exe" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/android-studio-2021.3.1.17-windows (1).exe" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/annie-spratt-QUHiX6x_yDE-unsplash.jpg" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/arduino-ide_nightly-20230503_Windows_64bit.zip" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Art.pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Attachments.txt" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Attachments (1).txt" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/blender-3.2.0-windows-x64.msi" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/BootStrap" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/BootStrap (1)" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/brigitta-schneiter-_SB32j-cVrU-unsplash.jpg" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/brooke-lark-HjWzkqW1dgI-unsplash.jpg" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/ChromeSetup.exe" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/CoreLauncherInstall.exe" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/CoreLauncherInstall (1).exe" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/CoreLauncherInstall (2).exe" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/CoreLauncherInstall (3).exe" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/CoreLauncherInstall (4).exe" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/CoreLauncherInstall (5).exe" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/CourseOutline.pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/CourseOutline (1).pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Cover.pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/cse7_allfiles.zip" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/DALL·E 2023-03-14 18.54.12 - grey logo with grasshopper.png" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/dark-arts.zip" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/debby-hudson-NqhxCt3htdk-unsplash.jpg" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/diana-schroder-bode-ObUD40Pwx5A-unsplash.jpg" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/EditProj.vsix" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/en_sql_server_2019_developer_x64_dvd_baea4195 (1).iso" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/endor.zip" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/EpicInstaller-13.3.0-unrealEngine.msi" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Export.CSV" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Export.pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Export (1).CSV" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Export (1).pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Export (2).CSV" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Export (2).pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/facebook.png" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/fast-monk-ink.zip" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Firefox Installer.exe" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/food-photographer-jennifer-pallian-X2gM-SIufpU-unsplash.jpg" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/freshProperties" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/freshProperties (1)" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Git-2.38.1-32-bit.exe" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/GT Burger.jpg" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/GT Burger.webp" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/half-elven.zip" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/hello-view.fxml" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/htm;" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/HTML_CSS.html.zip" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/icons8-eye-40.png" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/ImphenziaPalette01.png" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/insert_data.sql" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/invite.ics" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/irene-kredenets-T3C_m42SycQ-unsplash.jpg" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/jamie-street-PnhoA4mjPgg-unsplash.jpg" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/joanna-kosinska-DNjfFnDWBi0-unsplash.jpg" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Joshua+West.pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/jre-8u351-windows-x64.exe" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/karsten-winegeart-7UduWMpT618-unsplash.jpg" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/kindpng_622526.png" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/lilartsy-Z_FUr_l3LKU-unsplash.jpg" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/LVRoundLogoBlack copy.ai" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/markus-spiske-ZfwnLB94BKY-unsplash.jpg" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/mixkit-storm-wind-atmosphere-1735.wav" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/node-v18.14.0-x64.msi" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/openjdk-19.0.1_windows-x64_bin.zip" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Pdfdoconline.exe" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Photoshop_Set-Up.exe" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Postman-win64-Setup.exe" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Profile.pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Reflection Cover.pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Rendered DDA Statement - 4_19_2023 - Account # 2059081 - LANKENAU THERES - THERESA LANKENAU.pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Rendered DDA Statement - 4_19_2023 - Account # 2059081 - LANKENAU THERES - THERESA LANKENAU (1).pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/reynardo-etenia-wongso-0_iXEQahzKM-unsplash.jpg" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/riesling.zip" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/riesling (1).zip" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/roman-kraft-xQwiYFvTfJc-unsplash.jpg" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/sean-wells-8PN8CfOwFNE-unsplash.jpg" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Sketch it.pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Sp23 COMC 1746-25 Web Graphics and Animation - 3102023 - 821 AM.zip" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/SSMS-Setup-ENU.exe" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/SSMS-Setup-ENU (1).exe" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Startup.cs" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/SteamSetup.exe" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Su23 COMM 1420-25 Social Media Communications - 6162023 - 408 PM.zip" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Tailgater.jpg" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Teen J hard.pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Teen J hard (1).pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Time-master.zip" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Transactions-9081-2023-06-15.csv" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/transcript.txt" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Treasure Hunt Saving Our School.pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/uliana-kopanytsia-MfRr7NhCWyw-unsplash.jpg" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/UnityHubSetup(1).exe" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/UnityHubSetup.exe" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Untitled design.pdf" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/us-cities-sample.zip" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/us-cities-sample (1).zip" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/us-cities-sample (2).zip" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/view.png" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/vika-fleysher-HuBE1Wb2ovM-unsplash.jpg" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/VisualStudioSetup.exe" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/VisualStudioSetup (1).exe" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/VKTabletDriver_Win1.0.2.1.exe" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/vs_Enterprise.exe" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/vs_Enterprise (1).exe" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/vs_enterprise__2b849b90eeba4f779dd327947de54df3.exe" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/VSCodeUserSetup-x64-1.72.1.exe" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/VSCodeUserSetup-x64-1.72.2.exe" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/WideWorldImporters_LocalDb2016.zip" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/WideWorldImporters_LocalDb2016 (1).zip" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/Zoom_cm_fr5ff4wswkZ9vvrZo4_mLVrKWHYK6-W3B+WXWxIZ5hn4sf5fZhAXiPZ3@4lNERbO2N4mCy+KZ_kde5008af53d06b25_.exe" />
+    </root>
+  </artifact>
+</component>

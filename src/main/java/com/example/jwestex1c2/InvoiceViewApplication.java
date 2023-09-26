@@ -12,7 +12,7 @@ public class InvoiceViewApplication extends Application {
     public void start(Stage stage) throws IOException {
         FXMLLoader fxmlLoader = new FXMLLoader(InvoiceViewApplication.class.getResource("InvoiceView.fxml"));
         Scene scene = new Scene(fxmlLoader.load(), 700, 700);
-        stage.setTitle("Ex1CInvoice");
+        stage.setTitle("Ex1CInvoices");
         stage.setScene(scene);
         stage.show();
     }

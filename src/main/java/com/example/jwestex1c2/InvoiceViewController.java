@@ -54,16 +54,9 @@ public class InvoiceViewController {
     }
     @FXML
     protected  void initialize(){
-
-
-
-
       for (Invoice invoice : this.invoices) {
           invoicesComboBox.getItems().add(invoice.toShortString());
       }
-
-
-
         invoicesComboBox.getSelectionModel().selectFirst();
         Invoice invoice = this.invoices.get(0);
         this.displayInvoice(invoice);
